@@ -13,7 +13,8 @@
 
 p,
 li {
-  color: #686767;
+  color: #000;
+  /*color: #686767;*/
 }
 
 body {
@@ -104,7 +105,8 @@ ul {
   width: 2rem;
 }
 .info-section-sub-section > div > h3 {
-  color: #676767;
+  color: #000;
+  /*color: #676767;*/
 }
 .info-section > h2:first-of-type {
   color: var(--mainColor);
