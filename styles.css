@@ -51,7 +51,7 @@ ul {
 }
 
 .main-contents-holder > h1:first-of-type {
-  color: var(--headerColor);
+  color: var(--mainColor);
   user-select: none;
   cursor: pointer;
 }
