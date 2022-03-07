@@ -11,7 +11,7 @@ const generateRandomColor = () => {
 
 const changeHeaderColor = () => {
   document.documentElement.style.setProperty(
-    "--headerColor",
+    "--mainColor",
     `#${generateRandomColor()}`
   );
 };
